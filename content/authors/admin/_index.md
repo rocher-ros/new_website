@@ -21,21 +21,22 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biogeochemistry
+- Limnology
+- Landscape ecology
+- Complex systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biogeochemistry
+    institution: Umeå University, Sweden
+    year: 2019
+  - course: M.S. in Statistical Modelling
+    institution: Autonomous University of Barcelona, Spain
+    year: 2014
+  - course: B.S. in Environmental Sciences
+    institution: Barcelona University, Spain
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,29 +48,33 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GRocherRos
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=Aoh6hTYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rocher-ros
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_GRR.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I grew up in a small mountain valley in Catalonia, Spain, and from my village I could see how the major glacier of the Pyrenees, grand and snowy white when I was a kid, shrank and became grey as I got older. Then I became highly interested in biogeochemical cycles and global change caused by humans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I studied Environmental Sciences in Barcelona university. Then I had some knowledge about pressing environmental issues but I felt I lacked the tools. Therefore after graduating I went to the Mathematics department of the Autonomous University in Barcelona, and did an M.S in Modelling for Science, specialized in Statistical modelling and Complex Systems. My master thesis was about Multifractal patterns in boreal forests and how they mediate the response to fire dynamics. {{% staticref "files/Rocher-Ros_2014_The multifractal structure of ecosystems implications for the response of forest fires to environmental conditions.pdf" %}}Download the thesis here.{{% /staticref %}}
+
+I finished my PhD in 2019 at Umeå University, with my thesis entitled "Biophysical controls on CO2 evasion from inland waters" and under the supervision of Reiner Giesler. I used fine scale measurements of landscape properties, together with temporal sensor data, to separate the role of physics in gas evasion from metabolic processes that affect the Carbon dynamics in aquatic systems. The "kappa" (in English would be "thesis cover") {{% staticref "files/Kappa.pdf" %}} can be found here. {{% /staticref %}}
+
+Now I'm doing a postdoc with Johan Olofsson and Ryan Sponseller also at Umeå university, focused on the effects of large scale reindeer grazing on nutrients and carbon fluxes from terrestrial to aquatic ecosystems. 
