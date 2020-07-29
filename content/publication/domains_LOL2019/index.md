@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lol2.10108"
 url_preprint = ""
 url_code = "https://github.com/rocher-ros/co2_domains_publication"
 url_dataset = "https://snd.gu.se/sv/catalogue/study/snd1077/001"
