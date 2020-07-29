@@ -44,8 +44,8 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgcb.14895&file=gcb14895-sup-0003-Supinfo3.R"
+url_dataset = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgcb.14895&file=gcb14895-sup-0002-Supinfo2.csv"
 url_project = ""
 url_slides = ""
 url_video = ""
