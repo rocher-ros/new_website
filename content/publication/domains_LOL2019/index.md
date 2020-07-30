@@ -1,5 +1,5 @@
 +++
-title = "Landscape process domains drive patterns of CO~2~ evasion from river networks"
+title = "Landscape process domains drive patterns of CO2 evasion from river networks"
 date = 2019-04-11T00:00:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Gerard Rocher-Ros", "Ryan A. Sponseller", "William Lidberg", "Carl-M
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Limnology and Oceanography: Letters*, ASLO"
+publication = "In *Limnology and Oceanography: Letters*"
 publication_short = "*Limnology and Oceanography: Letters*"
 
 # Abstract and optional shortened version.
