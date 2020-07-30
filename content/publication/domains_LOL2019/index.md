@@ -1,5 +1,5 @@
 +++
-title = "Landscape process domains drive patterns of CO<sub>2</sub> evasion from river networks"
+title = "Landscape process domains drive patterns of CO~2~ evasion from river networks"
 date = 2019-04-11T00:00:00
 draft = false
 
