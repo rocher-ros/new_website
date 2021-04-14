@@ -1,10 +1,11 @@
 +++
-title = "Metabolism overrides photo‐oxidation in CO2 dynamics of Arctic permafrost streams"
-date = 2020-07-20T00:00:00
+title = "Nutrients influence seasonal metabolic patterns and total productivity of Arctic streams"
+date = 2020-10-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gerard Rocher-Ros", "Tamara K. Harms", "Ryan A. Sponseller", "Maria Väisänen", "Carl-Magnus Mörth", "Reiner Giesler"]
+authors = ["Maria Myrstener", "Lluis Gomez-Gener", "Gerard Rocher-Ros", "Reiner Giesler", "Ryan A. Sponseller" ]
+
 
 # Publication type.
 # Legend:
@@ -22,9 +23,9 @@ publication = "In *Limnology and Oceanography*"
 publication_short = "*Limnology and Oceanography*"
 
 # Abstract and optional shortened version.
-abstract = "Global warming is enhancing the mobilization of organic carbon (C) from Arctic soils into streams, where it can be mineralized to CO<sub>2</sub> and released to the atmosphere. Abiotic photo‐oxidation might drive C mineralization, but this process has not been quantitatively integrated with biological processes that also influence CO<sub>2</sub> dynamics in aquatic ecosystems. We measured CO<sub>2</sub> concentrations and the isotopic composition of dissolved inorganic C (δ<sup>13</sup>C-DIC) at diel resolution in two Arctic streams, and coupled this with whole‐system metabolism estimates to assess the effect of biotic and abiotic processes on stream C dynamics. CO<sub>2</sub> concentrations consistently decreased from night to day, a pattern counter to the hypothesis that photo‐oxidation is the dominant source of CO<sub>2</sub>. Instead, the observed decrease in CO<sub>2</sub> during daytime was explained by photosynthetic rates, which were strongly correlated with diurnal changes in δ<sup>13</sup>C-DIC values. However, on days when modeled photosynthetic rates were near zero, there was still a significant diel change in δ<sup>13</sup>C-DIC values, suggesting that metabolic estimates are partly masked by O<sub>2</sub> consumption from photo‐oxidation. Our results suggest that 6–12 mmol CO<sub>2</sub>‐C m−2 d−1 may be generated from photo‐oxidation, a range that corresponds well to previous laboratory measurements. Moreover, ecosystem respiration rates were 10 times greater than published photo‐oxidation rates for these Arctic streams, and accounted for 33–80% of total CO<sub>2</sub> evasion. Our results suggest that metabolic activity is the dominant process for CO<sub>2</sub> production in Arctic streams. Thus, future aquatic CO<sub>2</sub> emissions may depend on how biotic processes respond to the ongoing environmental change."
+abstract = "The seasonality of gross primary production (GPP) in streams is driven by multiple physical and chemical factors, yet incident light is often thought to be most important. In Arctic tundra streams, however, light is available in saturating amounts throughout the summer, but sharp declines in nutrient supply during the terrestrial growing season may constrain aquatic productivity. Given the opposing seasonality of these drivers, we hypothesized that “shoulder seasons”—spring and autumn—represent critical time windows when light and nutrients align to optimize rates of stream productivity in the Arctic. To test this, we measured annual patterns of GPP and biofilm accumulation in eight streams in Arctic Sweden. We found that the aquatic growing season length differed by 4 months across streams and was determined largely by the timing of ice‐off in spring. During the growing season, temporal variability in GPP for nitrogen (N) poor streams was correlated with inorganic N concentration, while in more N‐rich streams GPP was instead linked to changes in phosphorus and light. Annual GPP varied ninefold among streams and was enhanced by N availability, the length of ice‐free period, and low flood frequency. Finally, network scale estimates of GPP highlight the overall significance of the shoulder seasons, which accounted for 48% of annual productivity. We suggest that the timing of ice off and nutrient supply from land interact to regulate the annual metabolic regimes of nutrient poor, Arctic streams, leading to unexpected peaks in productivity that are offset from the terrestrial growing season."
 
-abstract_short = "Global warming is enhancing the mobilization of organic carbon (C) from Arctic soils into streams, where it can be mineralized to CO2 and released to the atmosphere. Abiotic photo‐oxidation might drive C mineralization, but this process has not been quantitatively integrated with biological processes that also influence CO2 dynamics in aquatic ecosystems. Photosynthetic and respiration rates were higher than photo-oxidation, driving the general CO2 dynamics in permafrost streams in Alaska. "
+abstract_short = "Productivity in Arctic Swedish streams is highest during spring and autumn, in contrast with the terrestrial summer peak, due to a strong nutrient limitation that is only relieved when terrestrial plants don't grow"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -42,10 +43,10 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.11614"
 url_preprint = ""
-url_code = "https://aslopubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flno.11564&file=lno11564-sup-0001-Supinfo.zip"
-url_dataset = "https://aslopubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flno.11564&file=lno11564-sup-0001-Supinfo.zip"
+url_code = ""
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -54,10 +55,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Sup. Materials", url = "RocherRosLO_2020_SI.pdf"}]
+#url_custom = [{name = "Sup. Materials", url = "RocherRosLO_2020_SI.pdf"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1002/lno.11564"
+doi = "10.1002/lno.11614"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -68,7 +69,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "The Kuparuk River meandering through the north slope in Alaska towards the Arctic Ocean, under the midnight sun"
+  caption = "The stream M2 during October. Plants are asleep but stream is at its productivity peak (Photo: Maria Myrstener)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

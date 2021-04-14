@@ -26,6 +26,7 @@ abstract = "Global warming is enhancing the mobilization of organic carbon (C) f
 
 abstract_short = "Global warming is enhancing the mobilization of organic carbon (C) from Arctic soils into streams, where it can be mineralized to CO2 and released to the atmosphere. Abiotic photo‐oxidation might drive C mineralization, but this process has not been quantitatively integrated with biological processes that also influence CO2 dynamics in aquatic ecosystems. Photosynthetic and respiration rates were higher than photo-oxidation, driving the general CO2 dynamics in permafrost streams in Alaska. "
 
+
 # Is this a selected publication? (true/false)
 selected = true
 
