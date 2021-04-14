@@ -1,10 +1,10 @@
 +++
 title = "Carbon emission from Western Siberian inland waters"
-date = 2020-07-20T00:00:00
+date = 2021-01-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jan Karlsson", "Svetlana Serikova", "Sergey N. Vorobyev",  "Gerard Rocher-Ros", "Blaize Denfeld",  "Oleg S. Pokrovsky"]
+authors = ["Jan Karlsson", "Svetlana Serikova", "Sergey N. Vorobyev", "Gerard Rocher-Ros", "Blaize Denfeld",  "Oleg S. Pokrovsky"]
 
 # Publication type.
 # Legend:
