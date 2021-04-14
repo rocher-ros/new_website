@@ -1,6 +1,6 @@
 +++
-title = "Metabolism overrides photo‐oxidation in CO2 dynamics of Arctic permafrost streams"
-date = 2020-07-20T00:00:00
+title = "Emission of greenhouse gases from water tracks draining Arctic hillslopes"
+date = 2020-10-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
