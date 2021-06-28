@@ -18,10 +18,6 @@ links:
 - icon: github
   name: GitHub
   url: https://github.com/rocher-ros/global_slope
--
-summary: R package to compare multivariate time-series.
-tags:
-- R packages
 
 url_code: ""
 url_pdf: ""
