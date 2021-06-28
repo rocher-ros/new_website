@@ -1,15 +1,19 @@
 ---
 title: Global river slopes
 summary: R script to estimate the reach slope of any river in the world
-tags:""
+tags:
+- R
+- hydrology
 
 date: "2021-04-27T00:00:00Z"
 
 external_link: ""
+
 image:
   caption: An example of the algorithm working. The black point is the low site, and the red the site upstream. The raster shows the flow accumulation in the landscape
   focal_point: Smart
-  margin: auto
+
+
 links:
 - icon: github
   icon_pack: fab
