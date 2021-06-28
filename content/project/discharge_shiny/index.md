@@ -1,11 +1,11 @@
 ---
-title: Global river slopes
-summary: R script to estimate the reach slope of any river in the world
+title: Interactive app for discharge estimation
+summary: Shiny app to calculate discharge in a river using the slug method
 tags:
 - R
 - hydrology
 
-date: "2021-04-27T00:00:00Z"
+date: "2021-05-27T00:00:00Z"
 
 external_link: ""
 
@@ -17,7 +17,7 @@ image:
 links:
 - icon: github
   name: GitHub
-  url: https://github.com/rocher-ros/global_slope
+  url: https://github.com/rocher-ros/dischargeApp_shiny
 
 url_code: ""
 url_pdf: ""
@@ -25,10 +25,10 @@ url_slides: ""
 url_video: ""
 ---
 
+App developed in Shiny to measure discharge in streams using a slug injection.
 
-River slope is a very useful parameter in stream geomorphology, aquatic ecology, hydrology... but hard to obtain easily at any location in the globe. This R script can obtain the stream channel just providing a pair of coordinates of a stream. The workflow is as follows:
+This app is intended to measure discharge using a slug injection of salt, it requires data recorded with a HoBo conductivity logger, a correction coefficient of the response of conductivity against NaCl and the exact amount of salt injected.
 
-- Download a high resolution digital elevation model (DEM) around the site, using the package "elevatr".
-- Model the flow accumulation in the landscape to see the stream channels.
-- Snap the coordinates provided to the closest stream.
-- An algorithm then follows the stream channel upstream for a predetermined length, and estimates the slope as the elevation difference between the site and upstream divided by the distance.
+The version 2 is to use with another method: by adding a measured volume of salt solution in water, with a known conductivity.
+
+Developed by G. Rocher-Ros (2016), for internal use at Umeå University. Any third party use is under the users' responsability. For any questions contact gerardrocher (at) gmail (dot) com

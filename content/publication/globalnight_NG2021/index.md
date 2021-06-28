@@ -54,9 +54,9 @@ url_source = ""
 
 
 # Custom links (uncomment lines below)
-links:
-- name: "Shiny App"
- url: https://gmrocher.shinyapps.io/night_co2_emissions_streams/
+#links:
+#- name: "Shiny App"
+# url: https://gmrocher.shinyapps.io/night_co2_emissions_streams/
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41561-021-00722-3"
