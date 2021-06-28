@@ -1,8 +1,8 @@
 ---
 title: Global river slopes
 summary: R script to estimate the reach slope of any river in the world
-tags:
-- Deep Learning
+tags:""
+
 date: "2021-04-27T00:00:00Z"
 
 external_link: ""
