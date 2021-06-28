@@ -16,7 +16,6 @@ image:
 
 links:
 - icon: github
-  icon_pack: fab
   name: GitHub
   url: https://github.com/rocher-ros/global_slope
 -
