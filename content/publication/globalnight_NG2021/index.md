@@ -54,7 +54,7 @@ url_source = ""
 
 
 # Custom links (uncomment lines below)
-# links:
+ links:
  - name: Shiny App
    url: https://gmrocher.shinyapps.io/night_co2_emissions_streams/
 
