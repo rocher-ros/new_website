@@ -4,7 +4,7 @@ date = 2021-04-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lluís Gómez-Gener¤", "*Gerard Rocher-Ros¤*", "Tom Battin", "Matthew J. Cohen", "Higo J. Dalmagro", "Kerry J. Dinsmore", "Travis W. Drake", "Clément Duvert", "Alex Enrich-Prast", "Åsa Horgby", "Mark S. Johnson", "Lily Kirk", "Fausto Machado-Silva", "Nicholas S. Marzolf", "Mollie J. McDowell", "William H. McDowell", "Heli Miettinen", "Anne K. Ojala", "Hannes Peter", "Jukka Pumpanen", "Lishan Ran", "Diego A. Riveros-Iregui", "Isaac R. Santos", "Johan Six", "Emily H. Stanley", "Marcus B. Wallin", "Shane A. White", "Ryan A. Sponseller" ]
+authors = ["Lluís Gómez-Gener*", "Gerard Rocher-Ros*", "Tom Battin", "Matthew J. Cohen", "Higo J. Dalmagro", "Kerry J. Dinsmore", "Travis W. Drake", "Clément Duvert", "Alex Enrich-Prast", "Åsa Horgby", "Mark S. Johnson", "Lily Kirk", "Fausto Machado-Silva", "Nicholas S. Marzolf", "Mollie J. McDowell", "William H. McDowell", "Heli Miettinen", "Anne K. Ojala", "Hannes Peter", "Jukka Pumpanen", "Lishan Ran", "Diego A. Riveros-Iregui", "Isaac R. Santos", "Johan Six", "Emily H. Stanley", "Marcus B. Wallin", "Shane A. White", "Ryan A. Sponseller" ]
 
 # Publication type.
 # Legend:
