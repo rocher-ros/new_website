@@ -14,7 +14,7 @@ role: PhD in Ecosystem Ecology
 
 # Organizations/Affiliations
 organizations:
-- name: Umeå University
+- name: Swedish University of Agricultural Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
