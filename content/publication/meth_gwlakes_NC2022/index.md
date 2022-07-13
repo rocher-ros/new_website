@@ -1,6 +1,6 @@
 +++
-title = "Global carbon dioxide efflux from rivers enhanced by high nocturnal emissions"
-date = 2021-04-15T00:00:00
+title = "Groundwater discharge as a driver of methane emissions from Arctic lakes"
+date = 2022-06-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
