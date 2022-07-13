@@ -22,17 +22,7 @@ publication = "In *Nature Communications*"
 publication_short = "*Nature Communications*"
 
 # Abstract and optional shortened version.
-abstract = "Lateral CH4 inputs to Arctic lakes through groundwater discharge could be substantial and
-constitute an important pathway that links CH4 production in thawing permafrost to atmospheric emissions via lakes. Yet, groundwater CH4 inputs and associated drivers are hitherto
-poorly constrained because their dynamics and spatial variability are largely unknown. Here,
-we unravel the important role and drivers of groundwater discharge for CH4 emissions from
-Arctic lakes. Spatial patterns across lakes suggest groundwater inflows are primarily related
-to lake depth and wetland cover. Groundwater CH4 inputs to lakes are higher in summer than
-in autumn and are influenced by hydrological (groundwater recharge) and biological drivers
-(CH4 production). This information on the spatial and temporal patterns on groundwater
-discharge at high northern latitudes is critical for predicting lake CH4 emissions in the
-warming Arctic, as rising temperatures, increasing precipitation, and permafrost thawing may
-further exacerbate groundwater CH4 inputs to lakes."
+abstract = "Lateral CH4 inputs to Arctic lakes through groundwater discharge could be substantial and constitute an important pathway that links CH4 production in thawing permafrost to atmospheric emissions via lakes. Yet, groundwater CH4 inputs and associated drivers are hitherto poorly constrained because their dynamics and spatial variability are largely unknown. Here, we unravel the important role and drivers of groundwater discharge for CH4 emissions from Arctic lakes. Spatial patterns across lakes suggest groundwater inflows are primarily related to lake depth and wetland cover. Groundwater CH4 inputs to lakes are higher in summer than in autumn and are influenced by hydrological (groundwater recharge) and biological drivers (CH4 production). This information on the spatial and temporal patterns on groundwater discharge at high northern latitudes is critical for predicting lake CH4 emissions in the warming Arctic, as rising temperatures, increasing precipitation, and permafrost thawing may further exacerbate groundwater CH4 inputs to lakes."
 
 abstract_short = "Groundwater inputs of CH4 into Arctic lakes are important and of similar magnitude as emissions to the atmosphere."
 
